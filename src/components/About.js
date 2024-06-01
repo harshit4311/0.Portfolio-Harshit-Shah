@@ -6,7 +6,7 @@ export default function About() {
             Harshit
           <span className="text-primary"> Shah</span>
           </h1>
-          <div className="subheading mb-5">Software Developer</div>
+          <div className="subheading mb-5">Software Developer | AI/ML Enthusiast</div>
           <p className="lead mb-5">
             Java | Spring Boot | Machine Learning | Data Science 
           </p>
